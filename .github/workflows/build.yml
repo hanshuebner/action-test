@@ -36,3 +36,5 @@ jobs:
           PGHOST: postgres
           PGPORT: 5432
           PGDATABASE: postgres
+          PGUSER: postgres
+          PGPASSWORD: postgres
